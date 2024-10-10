@@ -20,7 +20,7 @@
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s"
         },
         {
-          "name": "Rose Gols",
+          "name": "Rose Gold",
           "image": "https://javamedia.co.id/wp-content/uploads/2022/08/Jual-Laptop-Asus-VivoBook-E410MAO-FHD459-di-Denpasar-Bali.jpg"
         },
         {
@@ -40,13 +40,10 @@
         "Versatile ports that let you connect all your favorite peripherals",
         "Lenovo AI Engine learns your computing habits and makes your laptop run smoother"
       ],
-      "images": [
-       "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-122726430/lenovo_laptop-lenovo-ideapad-slim-3-ryzen-3-3250u_full01.jpg"
-      ],
       "variances": [
         {
           "name": "Silver",
-          "image":  "https://static.retailworldvn.com/Products/Images/12217/321652/laptop-lenovo-ideapad-slim-3-14amn8-ryzen-3-7320u-uma-8gb-512gb-win11-82xn003lid-grey-1.jpg",        
+          "image": "https://static.retailworldvn.com/Products/Images/12217/321652/laptop-lenovo-ideapad-slim-3-14amn8-ryzen-3-7320u-uma-8gb-512gb-win11-82xn003lid-grey-1.jpg"
         },
         {
           "name": "Grey",
@@ -75,7 +72,7 @@
       "variances": [
         {
           "name": "White Camo",
-          "image":  "https://cdn.pricebook.co.id/article/6608e00ab42c2edd2c9ead86/6608e00ab42c2edd2c9ead86_1711858658.jpg",        
+          "image": "https://cdn.pricebook.co.id/article/6608e00ab42c2edd2c9ead86/6608e00ab42c2edd2c9ead86_1711858658.jpg"
         },
         {
           "name": "Silver",
@@ -103,7 +100,7 @@
       "variances": [
         {
           "name": "White Silver",
-          "image":  "https://blossomzones.com/wp-content/uploads/2022/08/HP-Laptop-14s-dq0508TU.jpg",        
+          "image": "https://blossomzones.com/wp-content/uploads/2022/08/HP-Laptop-14s-dq0508TU.jpg"
         },
         {
           "name": "Navy",
@@ -130,7 +127,7 @@
       "variances": [
         {
           "name": "Black Midnight",
-          "image":  "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lpgcdocosr6b67",        
+          "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lpgcdocosr6b67"
         },
         {
           "name": "White",
