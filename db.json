@@ -14,11 +14,20 @@
         "12.7” 2.8K 120 Hz ScreenPad™ Plus",
         "Long-lasting 76 Wh battery"
       ],
-      "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s",
-        "https://javamedia.co.id/wp-content/uploads/2022/08/Jual-Laptop-Asus-VivoBook-E410MAO-FHD459-di-Denpasar-Bali.jpg"
-      ],
-      "variances": ["Black", "White", "Metalic"]
+      "variances": [
+        {
+          "name": "Black",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s"
+        },
+        {
+          "name": "Rose Gols",
+          "image": "https://javamedia.co.id/wp-content/uploads/2022/08/Jual-Laptop-Asus-VivoBook-E410MAO-FHD459-di-Denpasar-Bali.jpg"
+        },
+        {
+          "name": "Metalic",
+          "image": "https://dlcdnwebimgs.asus.com/files/media/83948b74-7d4c-423b-89d9-6e58be8a29db/v1/features/images/video/large/kv/kvShow.jpg"
+        }
+      ]
     },
     {
       "id": 2,
@@ -32,10 +41,22 @@
         "Lenovo AI Engine learns your computing habits and makes your laptop run smoother"
       ],
       "images": [
-        "https://static.retailworldvn.com/Products/Images/12217/321652/laptop-lenovo-ideapad-slim-3-14amn8-ryzen-3-7320u-uma-8gb-512gb-win11-82xn003lid-grey-1.jpg",
-        "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-122726430/lenovo_laptop-lenovo-ideapad-slim-3-ryzen-3-3250u_full01.jpg"
+       "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-122726430/lenovo_laptop-lenovo-ideapad-slim-3-ryzen-3-3250u_full01.jpg"
       ],
-      "variances": ["Navy"]
+      "variances": [
+        {
+          "name": "Silver",
+          "image":  "https://static.retailworldvn.com/Products/Images/12217/321652/laptop-lenovo-ideapad-slim-3-14amn8-ryzen-3-7320u-uma-8gb-512gb-win11-82xn003lid-grey-1.jpg",        
+        },
+        {
+          "name": "Grey",
+          "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/2/15/dd04700c-9a30-48d8-b923-a3cab9fbb967.jpg"
+        },
+        {
+          "name": "Navy",
+          "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-122726430/lenovo_laptop-lenovo-ideapad-slim-3-ryzen-3-3250u_full01.jpg"
+        }
+      ]
     },
     {
       "id": 3,
@@ -51,11 +72,20 @@
         "Features : Type-C Full Function, FHD Camera, Upgradeable Design",
         "Accessories : Acer Backpack"
       ],
-      "images": [
-        "https://static-ecapac.acer.com/media/catalog/product/9/_/9_1_nx.ktvsn.001.png?optimize=high&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500&format=jpeg",
-        "https://sysbol.com/2011-large_default/acer-aspire-5-a515-156-fullhd-10th-gen-intel-core-i3-1005g1.jpg"
-      ],
-      "variances": ["White", "Gold"]
+      "variances": [
+        {
+          "name": "White Camo",
+          "image":  "https://cdn.pricebook.co.id/article/6608e00ab42c2edd2c9ead86/6608e00ab42c2edd2c9ead86_1711858658.jpg",        
+        },
+        {
+          "name": "Silver",
+          "image": "https://els.id/wp-content/uploads/2023/12/AL14-31P-4.png"
+        },
+        {
+          "name": "Black",
+          "image": "https://cworld.id/wp-content/uploads/2023/07/ACER-3.jpg"
+        }
+      ]
     },
     {
       "id": 4,
@@ -70,12 +100,20 @@
         "Networking : Wifi and Bluetooth® 4.2 Combo",
         "Battery : 45 W AC power adapter 3-cell, 41 Wh Li-ion"
       ],
-      "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXcd2D3kVAyERZSG_1sT0hTjh8D8qbUMAlg&s",
-        "https://images.tokopedia.net/img/cache/700/OJWluG/2022/3/21/d7ed491c-4761-487d-906a-5502edcd7a0f.jpg?ect=4g",
-        "https://images.tokopedia.net/img/cache/700/OJWluG/2022/3/21/13ef61c3-f264-4971-bb6f-c80834ee8557.jpg.webp?ect=4g"
-      ],
-      "variances": ["Silver"]
+      "variances": [
+        {
+          "name": "White Silver",
+          "image":  "https://blossomzones.com/wp-content/uploads/2022/08/HP-Laptop-14s-dq0508TU.jpg",        
+        },
+        {
+          "name": "Navy",
+          "image": "https://images-cdn.ubuy.co.id/64c41e4771c5f52216163af1-hp-stream-14-laptop-intel-celeron.jpg"
+        },
+        {
+          "name": "Black",
+          "image": "https://images-cdn.ubuy.co.id/64c4fb3e273d75524f4a8c2d-hp-stream-14-laptop-intel-celeron.jpg"
+        }
+      ]
     },
     {
       "id": 5,
@@ -89,11 +127,20 @@
         "16GB LPDDR5 RAM",
         "1TB NVMe Gen 4 M.2 SSD"
       ],
-      "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgoSjqUCl0cgv527vuoVXCt2dTn4JpthfWA&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuam8a0svYy2aosbTCOtW9XVAMKOMiQd_qyQ&s"
-      ],
-      "variances": ["Dark Silver", "Black"]
+      "variances": [
+        {
+          "name": "Black Midnight",
+          "image":  "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lpgcdocosr6b67",        
+        },
+        {
+          "name": "White",
+          "image": "https://assets.techverse.asia/media/2023/12/29/gram_pro_beauty_cut_3.webp"
+        },
+        {
+          "name": "Grey",
+          "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6579/6579392_sd.jpg"
+        }
+      ]
     }
   ]
 }
