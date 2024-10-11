@@ -167,61 +167,6 @@
           "image": "https://dlcdnwebimgs.asus.com/gain/a34e5a7b-076f-4e5b-99d3-25599f36eda4/"
         }
       ]
-    },
-    {
-      "id": 7,
-      "name": "Lenovo afasf 3 Ryzen",
-      "price": 18621599,
-      "desc": [
-        "Harness agile performance from AMD Ryzen™ 7000 Series Mobile Processors",
-        "Up to Windows 11 Pro",
-        "Experience rich media on a sharp 15″ display and Dolby Audio™",
-        "Versatile ports that let you connect all your favorite peripherals",
-        "Lenovo AI Engine learns your computing habits and makes your laptop run smoother"
-      ],
-      "variances": [
-        {
-          "name": "Silver",
-          "image": "https://m.media-amazon.com/images/I/71QTxOz46yL.jpg"
-        },
-        {
-          "name": "Grey",
-          "image": "https://www.softcom.co.id/wp-content/uploads/2022/07/slim5.jpg"
-        },
-        {
-          "name": "Navy",
-          "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-122726430/lenovo_laptop-lenovo-ideapad-slim-3-ryzen-3-3250u_full01.jpg"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Acer Reewq Special",
-      "price": 12515199,
-      "desc": [
-        "Processor : Intel® i3-1215U Processor (6 Cores, 4.4 GHz)",
-        "OS : Windows 11 Home",
-        "Memory : 8 GB DDR5 Memory (Upgradeable with 2nd SODIMM Slot)",
-        "Storage : 256 GB SSD NVMe",
-        "Inch, Res, Ratio, Panel : 14 WUXGA 1920 x 1200, IPS, Acer ComfyView",
-        "Graphics : Intel UHD Graphics",
-        "Features : Type-C Full Function, FHD Camera, Upgradeable Design",
-        "Accessories : Acer Backpack"
-      ],
-      "variances": [
-        {
-          "name": "White Camo",
-          "image": "https://cdn1.productnation.co/stg/sites/5/64edb98ddb0a5.jpg"
-        },
-        {
-          "name": "Silver",
-          "image": "https://els.id/wp-content/uploads/2023/12/AL14-31P-4.png"
-        },
-        {
-          "name": "Charcoal",
-          "image": "https://javamedia.co.id/wp-content/uploads/2022/08/Jual-Laptop-Acer-Aspire-7-A715-42G-R75V-di-Denpasar-Bali.jpg"
-        }
-      ]
     }
   ]
 }
