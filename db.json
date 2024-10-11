@@ -222,61 +222,6 @@
           "image": "https://javamedia.co.id/wp-content/uploads/2022/08/Jual-Laptop-Acer-Aspire-7-A715-42G-R75V-di-Denpasar-Bali.jpg"
         }
       ]
-    },
-    {
-      "id": 9,
-      "name": "HP 14S-DQascTU",
-      "price": 4849929,
-      "desc": [
-        "Processor: Intel Celeron Quad-core N4120 (4 MB L2 cache; 1.10 GHz; up to 2.6 GHz)",
-        "Display: 14″ diagonal, HD (1366 x 768), micro-edge, BrightView, 220 nits, 45% NTSC",
-        "RAM: 4 GB DDR4-2400 MHz RAM (1 x 4 GB)",
-        "HDD: 256 GB PCIe® NVMe™ M.2 SSD",
-        "Graphics : Intel UHD Graphics",
-        "Networking : Wifi and Bluetooth® 4.2 Combo",
-        "Battery : 45 W AC power adapter 3-cell, 41 Wh Li-ion"
-      ],
-      "variances": [
-        {
-          "name": "White Silver",
-          "image": "https://blossomzones.com/wp-content/uploads/2022/08/HP-Laptop-14s-dq0508TU.jpg"
-        },
-        {
-          "name": "Navy",
-          "image": "https://images-cdn.ubuy.co.id/64c41e4771c5f52216163af1-hp-stream-14-laptop-intel-celeron.jpg"
-        },
-        {
-          "name": "Black",
-          "image": "https://images-cdn.ubuy.co.id/64c4fb3e273d75524f4a8c2d-hp-stream-14-laptop-intel-celeron.jpg"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "LG Gram-17wq0",
-      "price": 19491699,
-      "desc": [
-        "17” WQXGA (2560x1600) Anti-Glare IPS Touch",
-        "Windows 11 Home",
-        "Intel Evo 13th Gen Intel® Core™ Processor i7-1360P",
-        "Intel Iris Xe Graphics",
-        "16GB LPDDR5 RAM",
-        "1TB NVMe Gen 4 M.2 SSD"
-      ],
-      "variances": [
-        {
-          "name": "Black Midnight",
-          "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lpgcdocosr6b67"
-        },
-        {
-          "name": "White",
-          "image": "https://assets.techverse.asia/media/2023/12/29/gram_pro_beauty_cut_3.webp"
-        },
-        {
-          "name": "Grey",
-          "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6579/6579392_sd.jpg"
-        }
-      ]
     }
   ]
 }
